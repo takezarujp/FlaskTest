@@ -1,0 +1,6 @@
+*.pyc
+*.old
+
+/__pycache__/
+
+
